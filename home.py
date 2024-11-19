@@ -8,5 +8,5 @@ st.image('./img/Kafka.png')
 st.subheader("Khunanon Suittipong")
 
 dt=pd.read_csv('./data/iris-3.csv')
-st.header()
+st.header("รูป ข้อมูลตัวระคร")
 st.write(dt.head(10))
