@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 st.header('Khunanon')
-st.image("./img/kafka.png")
+st.image("./img/Kafka.png")
 col1, col2, col3 = st.columns(3)
 
 with col1:
